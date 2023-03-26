@@ -258,5 +258,51 @@ h4{
     text-align: center;
     padding-top: 50px;
     color:#afafa7;
+   
     
+}
+h4 a {
+    text-decoration: none;
+    color: #e50914;
+}
+
+.accordion-section{
+    background-color: black;
+    padding-top: 100px;
+    width: 100%;
+    padding-bottom: 100px;
+}
+
+h2{
+    color: #ffffff;
+    text-align: center;
+    font-size: 34px;
+}
+
+.mail-box{
+    text-align: center;
+    width: 100%;
+    padding-top: 40px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 24px;
+    
+}
+.mail-box form input {
+    background-color: rgba(24, 23, 23, 0.6);
+    border: 3px solid #217e50;
+    border-radius: 4px;
+    padding: 24px 200px 20px 6px;
+}
+.mail-box form button{
+    padding: 20px 25px 18px 25px;
+    font-size: 22px;
+    margin-left: 2px;
+    border-radius: 8px;
+    background-color: #e50914;
+    color: #ffffff;
+    font-weight: 600;
+    
+}
+.mail-box p {
+    font-weight: 400;
 }
